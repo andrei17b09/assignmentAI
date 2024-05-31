@@ -1,0 +1,4 @@
+﻿  tspAstar.cpp
+D:\visual projects\tspAstar\tspAstar.cpp(23,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\visual projects\tspAstar\tspAstar.cpp(69,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  tspAstar.vcxproj -> D:\visual projects\tspAstar\x64\Debug\tspAstar.exe

@@ -1,0 +1,4 @@
+﻿  tspBFS.cpp
+D:\visual projects\tspBFS\tspBFS.cpp(20,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\visual projects\tspBFS\tspBFS.cpp(59,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  tspBFS.vcxproj -> D:\visual projects\tspBFS\x64\Debug\tspBFS.exe

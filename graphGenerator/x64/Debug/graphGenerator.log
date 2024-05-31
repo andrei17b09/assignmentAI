@@ -1,0 +1,3 @@
+﻿  graphGenerator.cpp
+D:\visual projects\graphGenerator\graphGenerator.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  graphGenerator.vcxproj -> D:\visual projects\graphGenerator\x64\Debug\graphGenerator.exe
